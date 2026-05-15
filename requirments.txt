@@ -1,0 +1,7 @@
+Streamlit
+fastapi
+Panda
+SqlAlchemy
+matplotlib
+openpyxl
+seaborn
